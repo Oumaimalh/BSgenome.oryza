@@ -1,0 +1,18 @@
+Package: Bsatelier.Bom
+Title: Chromosome plus MT plus rDNA sequences for riz (based on ensembl)
+Description: Oryza sativa full genome as provided by MSU (MSU7 Genome Release) and stored in Biostrings objects.
+Version: 1.1
+Author: Oumaima lahiani
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Depends: BSgenome (>= 1.54.0)
+Imports: BSgenome
+Suggests: 
+License: Artistic-2.0
+organism: Cicer arietinum
+common_name: Rice
+provider: NCBI
+provider_version: ASM33114v1
+release_date: Jan. 2013
+release_name: BGI-Shenzhen ASM33114v1
+source_url: ftp://ftp.ensemblgenomes.org/pub/release-46/plants/fasta/oryza_sativa/dna/
+biocViews: AnnotationData, Genetics, BSgenome, Bom
